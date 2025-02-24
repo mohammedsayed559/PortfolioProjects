@@ -6,5 +6,3 @@ Finally, I used Tableau to design and build the visualizations, transforming the
 
 
 
-
-![Uploading image.png…]()
